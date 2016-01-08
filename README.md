@@ -1,6 +1,6 @@
 # Copernic
 
-voir "Personnal Access Token" lors de l'installation de GIT
+voir "Personnal Access Token" lors de l'installation de GIT avec Windows
 
 ## Récupérer le projet
 
